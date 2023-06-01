@@ -10,7 +10,7 @@ function App() {
       <div>
         <p>hello world</p>
         <h1>It's Arsen's homework</h1>
-        <h2>React Progect</h2>
+        <h2>React Project</h2>
       </div>
   )
 }
